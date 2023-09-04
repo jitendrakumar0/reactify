@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todo": [
+    {
+      "id": 1,
+      "name": "Jitendra Kumar",
+      "email": "anil@gmail.com",
+      "mobile": "9999"
+    },
+    {
+      "id": 2,
+      "name": "Preetam",
+      "email": "preetam@gmail.com",
+      "mobile": "3333"
+    },
+    {
+      "id": 3,
+      "name": "Pallvi",
+      "email": "pallvi@gmail.com",
+      "mobile": "4545"
+    },
+    {
+      "id": 4,
+      "name": "Ajay Sharma",
+      "email": "ajay@gmail.com",
+      "mobile": "4444"
+    },
+    {
+      "id": 5,
+      "name": "Anil Sidhu",
+      "email": "anil@gmail.com",
+      "mobile": "7788"
+    },
+    {
+      "name": "Ironman",
+      "email": "ironman@gmail.com",
+      "mobile": "9999",
+      "id": 6
+    }
+  ]
+}
