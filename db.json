@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todo": [
+    {
+      "name": "Jitendra Kumar",
+      "email": "anil@gmail.com",
+      "mobile": "9999",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Preetam",
+      "email": "preetam@gmail.com",
+      "mobile": "3333"
+    },
+    {
+      "name": "Pallvi Mishra",
+      "email": "pallvi@gmail.com",
+      "mobile": "4545",
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "name": "Jitendra bijarnia",
+      "email": "jitendra.img@gmail.com",
+      "mobile": "08302598435",
+      "userId": 5,
+      "id": 5
+    },
+    {
+      "name": "Ajay Sharma",
+      "email": "ajay@gmail.com",
+      "mobile": "35464574",
+      "id": 6
+    }
+  ]
+}
